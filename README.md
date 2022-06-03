@@ -1,1 +1,1 @@
-# How-Uber-uses-Machine-Learning-Case-Study
+# How Uber uses Machine Learning Case Study
